@@ -1,18 +1,6 @@
 package com.example.app_abdelhak_hacib;
 
-/*
-	 *	This content is generated from the API File Info.
-	 *	(Alt+Shift+Ctrl+I).
-	 *
-	 *	@desc 		
-	 *	@file 		frame
-	 *	@date 		Monday 22nd of January 2024 05:29:01 PM
-	 *	@title 		Page 1
-	 *	@author 	
-	 *	@keywords 	
-	 *	@generator 	Export Kit v1.3.figma
-	 *
-	 */
+
 	
 
 
